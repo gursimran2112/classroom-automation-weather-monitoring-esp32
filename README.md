@@ -6,6 +6,14 @@ This project is an IoT-based classroom automation system developed using ESP32. 
 
 ---
 
+## Project Images
+
+### Hardware Prototype
+![Project](IMG-20260507-WA0001.jpg)
+
+### Working Model
+![Working](IMG-20260507-WA0004.jpg)
+
 Features
 
 - Automatic Light Control using LDR
